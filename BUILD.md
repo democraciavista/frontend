@@ -15,6 +15,7 @@ Instale as dependências:
 Para rodar localmente:
 
     npm start
+Acesse em http://localhost:3000/
 
 Para fazer a build otimizada:
 
