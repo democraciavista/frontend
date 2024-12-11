@@ -5,7 +5,7 @@ Mais informações sobre o projeto podem ser encontradas na [página da organiza
 
 *Links Úteis:*
 \
-[Como rodar o backend localmente?](https://github.com/democraciavista/frontend/blob/main/BUILD.md)
+[Como rodar o frontend localmente?](https://github.com/democraciavista/frontend/blob/main/BUILD.md)
 \
 [Como contribuir?](https://github.com/democraciavista/frontend/blob/main/CONTRIBUTING.md)
 \
